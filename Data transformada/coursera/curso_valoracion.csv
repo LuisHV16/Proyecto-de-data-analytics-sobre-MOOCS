@@ -1,0 +1,605 @@
+course_id,mean_rating
+Aboriginal education,4.53
+Access control sscp,4.32
+Accounting analytics,4.39
+Accounting data analytics python,3.5
+Actualizacion manejo diabetes tipo 2,4.82
+Addiction and the brain,4.56
+Addiction treatment,4.92
+Advanced valuation and strategy,4.64
+Agile atlassian jira,4.7
+Ai for everyone,4.85
+Ai for medical diagnosis,4.58
+Ai for medical prognosis,4.75
+Algorithmic toolbox,4.54
+American law,4.81
+Analytics business metrics,4.55
+Analytics excel,3.75
+Anatomy403 1x,4.76
+Animal welfare,4.75
+Antibiotic stewardship,4.17
+Anticorrupcion introduccion,4.83
+Applied data science capstone,4.57
+Aprendiendo a aprender,4.92
+Aprendiendo programar python,4.32
+Arbitration international disputes,4.84
+Arts heritage,4.78
+Astro,4.85
+Attention models in nlp,3.29
+Aulaconstructivista,4.9
+Autism spectrum disorder,4.59
+Autodesk autocad design drafting,4.86
+Autodesk revit architectural design,4.67
+Aws fundamentals addressing security risk,4.28
+Aws fundamentals going cloud native,4.62
+Aws machine learning,4.24
+Basic statistics,4.6
+Batch data pipelines gcp,4.26
+Bayesian statistics,4.47
+Bcg uva darden digital transformation,4.79
+Becoming a veterinarian,4.72
+Beyond the sustainable development goals addressing sustainability and development,4.67
+Big data essentials,3.52
+Big data introduction,4.53
+Big history,4.79
+Biohacking your brains health,4.59
+Bioinformatics,4.1
+Blockchain basics,4.52
+Bootstrap 4,4.82
+Brand,4.91
+Bugs 101,4.96
+Build a computer,4.88
+Building modern python applications on aws,5.0
+Business,4.88
+Business english intro,4.78
+Business model,4.75
+Business transformation google cloud,4.73
+C for everyone,4.28
+C plus plus white,4.73
+Camino excelencia gestion proyectos,4.47
+Cancer,4.76
+Careerdevelopment,4.88
+Cats and dogs,4.72
+Challenging forensic science,4.88
+Change management,4.53
+Chemicals health,4.81
+Child development,4.78
+Childnutrition,4.78
+Childrens rights,4.63
+Ciencia computacao python conceitos,4.9
+Classical sociological theory,4.88
+Classification vector spaces in nlp,4.4
+Clinical data management,4.7
+Clinical research,4.74
+Clinical terminology,4.86
+Clinical trials,4.73
+Clinicalsimulations,4.83
+Cloud azure intro,4.29
+Cloud infrastructure design process,4.74
+Communication strategies virtual age,4.65
+Community organizing,4.53
+Company future management,4.82
+Competencias digitales ofimatica,4.72
+Competencias lab,4.31
+Computational neuroscience,4.58
+Computational thinking problem solving,4.73
+Computer networking,4.62
+Construction project management,4.75
+Contabilidad,4.7
+Contact tracing for covid 19,4.8
+Containerized apps on aws,4.32
+Contemporary art,4.88
+Content marketing,4.36
+Contracts 1,4.84
+Contrats,4.84
+Conversational experiences dialogflow,4.45
+Convolutional neural networks,3.85
+Convolutional neural networks tensorflow,4.46
+Corp sustainability,4.62
+Corporate commercial law part1,4.91
+Corporate finance essentials,4.82
+Corporatestrategy,4.9
+Correccion estilo variaciones,4.74
+Countering terror violent extremism,4.84
+Covid 19 contact tracing for nursing professionals,4.43
+Covid 19 what you need to know,4.84
+Craft of plot,4.63
+Crash course in causality,4.62
+Creative problem solving,4.02
+Creative thinking techniques and tools for success,4.75
+Crypto,4.78
+Cs fundamentals 1,4.6
+Cs fundamentals 2,4.67
+Cultural competence aboriginal sydney,4.63
+Curanderismo plants,1.0
+Customer segmentation prospecting,4.72
+Cybersecurity compliance framework system administration,4.66
+Cybersecurity roles processes operating system security,4.36
+Data analysis with python,4.37
+Data analytics for lean six sigma,4.86
+Data lakes data warehouses gcp,4.6
+Data management,4.6
+Data science k means clustering python,4.56
+Data science methodology,4.32
+Data scientists tools,4.51
+Data visualization tableau,4.24
+Database management,4.49
+Datasciencemathskills,4.41
+Decision making,4.52
+Deep neural network,4.8
+Democracia,4.85
+Dental medicine penn,4.86
+Dentistry101,4.9
+Dermatology,4.5
+Design strategy,4.64
+Develop your musicianship,4.84
+Devops culture and mindset,4.86
+Digital advertising landscape,4.49
+Digital business models,4.49
+Dino101,4.93
+Discrete optimization,4.89
+Diversity inclusion workplace,4.76
+Django database web apps,4.63
+Dog emotion and cognition,4.68
+Droits de lhomme,4.85
+Drug commercialization,4.44
+Drug development,4.48
+Drug discovery,4.48
+Ds,4.03
+Duke behavioral finance,4.09
+Duke programming web,4.45
+Dyslexia difficulties,4.74
+Ecology conservation,4.85
+Effective compliance programs,4.9
+Einstein relativity,4.91
+Elearning,4.43
+Electricity,4.72
+Electronics,4.63
+Embedded software hardware,4.39
+Emt foundations,4.85
+Enfant developpement,4.93
+Engineering health yoga physiology,4.84
+Engineering mechanics statics,4.77
+English composition,4.57
+English principles,4.88
+Enlinea,4.9
+Enterprise architecture,4.55
+Entrepreneur changement,4.76
+Entrepreneurship strategy,1.0
+Entreprise changement climatique,5.0
+Environmental law,4.89
+Epidemic pandemic outbreak,4.57
+Epidemiology,4.66
+Epidemiology tools,4.64
+Epigenetics,1.0
+Equine,4.85
+Erasmus econometrics,4.46
+Essentials global health,4.84
+Estrategia marketing digital,4.73
+Etudier en france,4.89
+European law fundamentals,4.71
+Everyday chinese medicine,4.66
+Everyday excel part 1,4.76
+Everyday excel part 2,4.95
+Everyday parenting,4.94
+Excel advanced,4.71
+Excel aplicado negocios avanzado,4.71
+Excel data analysis,4.67
+Excel data analysis fundamentals,4.59
+Excel essentials,4.88
+Excel intermediate 1,4.92
+Excel intermediate 2,4.74
+Excel para negocios,4.77
+Excel vba for creative problem solving part 1,4.88
+Excellence operationnelle,4.72
+Exploring renewable energy,4.79
+Exposure photography,4.75
+Family planning,4.62
+Fashion design,4.86
+Fe exam,4.51
+Feminism social justice,4.77
+Finance for non finance,4.85
+Finance for non financial managers,4.27
+Finance fundamentals,3.89
+Finance healthcare managers,4.35
+Financial engineering 1,4.38
+Financial markets global,4.82
+Financial planning,4.06
+Finanzas empresariales,4.88
+Finanzas personales,4.78
+Finding purpose and meaning in life,4.8
+Fintechlawandpolicy,4.82
+Fondamentaux negociation,4.9
+Food and health,4.68
+Food beverage management,4.83
+Forensic accounting,4.68
+Forensic science,4.82
+Foundations big data analysis sql,4.85
+Foundations of mindfulness,4.82
+Front end react,4.68
+Fundamental machine learning healthcare,4.9
+Fundamentals of graphic design,4.77
+Fundamentals of reinforcement learning,4.7
+Game development,4.76
+Gamification,4.75
+Gcp big data ml fundamentals,4.54
+Gcp exploring preparing data bigquery,4.4
+Gcp fundamentals,4.69
+Gcp infrastructure core services,4.56
+Gcp infrastructure foundation,4.66
+Gcp infrastructure scaling automation,4.56
+Gender sexuality,4.48
+Genetics evolution,4.89
+Geopolitics europe,3.98
+Gestion organizaciones efectivas,4.72
+Gestionar personas,4.84
+Gestionempresarialpyme,4.84
+Getinmooc,4.67
+Getting started with essay writing,4.7
+Getting started with google sheets,4.63
+Getting started with tensor flow2,4.88
+Gis,4.85
+Global diplomacy,4.61
+Global diplomacy un,4.72
+Global energy,4.7
+Global environmental management,4.63
+Global financial crisis,4.84
+Global financial markets instruments,4.31
+Global sustainable development,4.8
+Globalenergyandclimatepolicy,4.67
+Golang getting started,4.32
+Golang webservices 1,4.76
+Google cbrs cpi training,4.84
+Google cloud java spring,3.96
+Google cloud product fundamentals,4.62
+Google kubernetes engine,4.13
+Google machine learning,4.49
+Grammar punctuation,4.75
+Gte sustainable cities,4.58
+Guitar,4.73
+Healing with the arts,4.72
+Health behavior change,4.93
+Healthcarejobs,4.2
+High stakes leadership,4.78
+Horse care,4.76
+How things work,4.74
+Html,4.0
+Html css javascript for web developers,4.79
+Human language,4.67
+Human needs,4.08
+Humanrights,4.78
+Ibm customer engagement specialist,4.87
+Ibm penetration testing incident response forensics,4.44
+Iiot google cloud platform,4.51
+Immunologyfundamentalsimmunitybcells,4.76
+Indigenous canada,4.79
+Industrial biotech,4.64
+Information security data,4.6
+Information systems audit,4.7
+Infrastructure investing,4.86
+Initiating planning,4.69
+Innovation management,4.59
+Innovation through design,4.73
+Instructional design foundations applications,3.86
+Intercultural,4.33
+International criminal law,4.81
+International humanitarian law,4.87
+International law in action,4.78
+International migrations,4.23
+International organizations management,4.83
+International relations theory,4.58
+International security management,4.66
+International taxation,4.85
+Intro accounting data analytics visual,4.94
+Intro business analytics,4.75
+Intro chemistry,4.81
+Intro common law,4.89
+Intro data science programacion estadistica r,4.72
+Intro economic theories,4.35
+Intro programming,4.82
+Intro self driving cars,4.64
+Intro sql,4.74
+Intro to healthcare,4.0
+Introancientegypt,4.6
+Introclassicalmusic,4.89
+Introcss,4.79
+Introduction blockchain technologies,4.72
+Introduction cybersecurity cyber attacks,4.28
+Introduction embedded systems,4.26
+Introduction g suite,4.65
+Introduction genomics,4.47
+Introduction git github,4.79
+Introduction intellectual property,4.78
+Introduction portfolio construction python,4.78
+Introduction programming unity,4.7
+Introduction psych,4.89
+Introduction psychology,4.74
+Introduction statistics data analysis public health,4.68
+Introduction tensorflow,4.63
+Introduction to ai,4.74
+Introduction to calculus,4.92
+Introduction to cloud,4.82
+Introduction to computer programming,3.86
+Introduction to computers and office productivity software,4.6
+Introduction to data analytics,4.78
+Introduction to software product management,4.52
+Introduction trading machine learning gcp,3.52
+Introtoux principles and processes,4.84
+Investment management,4.52
+It security,4.73
+Japanese 1,3.61
+Java programming,4.43
+Journalism,4.83
+Kotlin for java developers,4.51
+Law student,4.67
+Leadership 21st century,4.79
+Leading for equity diversity inclusion,4.72
+Learn chinese,4.74
+Learn korean,4.85
+Learn speak korean1,4.89
+Learn to program,4.76
+Learning how to learn,4.8
+Legal tech startups,4.14
+Legaltech,4.97
+Linear algebra machine learning,4.57
+Love social justice,4.72
+Machine learning,4.72
+Machine learning business professionals,4.54
+Machine learning duke,4.7
+Machine learning projects,4.71
+Machine learning with python,4.55
+Mafash,4.69
+Magic middle ages,4.54
+Making architecture,4.84
+Manage health covid 19,4.82
+Managing as a coach,4.73
+Managing human resources,4.81
+Marketing digital,4.66
+Marketing gerencial,4.7
+Mastering final cut pro,4.46
+Mathematical thinking,4.79
+Mathematics and python,4.62
+Matlab,4.84
+Mcmc bayesian statistics,4.76
+Medical neuroscience,4.91
+Medical research,4.93
+Memoir reader relationship,4.27
+Mental health,4.62
+Microbiome,4.74
+Microeconomics,4.83
+Mindshift,4.81
+Ml foundations,4.47
+Model thinking,4.77
+Modern art ideas,4.68
+Modern world,4.82
+Modern world 2,4.8
+Money banking,4.91
+Moral politics,4.87
+Moralities,4.87
+Motivate people teams,4.8
+Multivariate calculus machine learning,4.65
+Music business foundations,4.86
+Music theory,4.14
+Mythology,4.77
+Nand2tetris2,4.96
+Nanotechnology,4.87
+Natural language processing tensorflow,4.28
+Negociacion,4.8
+Negotiation,4.85
+Negotiation skills,4.8
+Neural networks deep learning,4.77
+Neurobiology,4.91
+Neuroeconomics,4.63
+Neuromarketing,4.63
+Neuroscience neuroimaging,4.66
+Nlp sequence models,4.64
+Norms,4.58
+Nutricion obesidad sobrepeso,4.76
+Nutrition pregnancy,4.75
+Object oriented design,4.38
+Object oriented java,4.66
+Oilandgas,4.81
+Open source tools for data science,4.03
+Oralcavity,4.92
+Organizational behavior,4.8
+Os power user,4.44
+Painting,4.91
+Pap,4.86
+Pca machine learning,3.44
+People management,4.48
+Perfect tenses modals,4.78
+Personal branding,4.32
+Philosophy,4.68
+Philosophy cognitive sciences,4.52
+Photography,4.79
+Physiology,4.78
+Plantknows,4.82
+Plato,4.15
+Positive psychiatry,4.82
+Positive psychology,4.66
+Positive psychology applications,4.74
+Positive psychology resilience,4.88
+Positive psychology visionary science,4.86
+Powerpoint presentations,4.57
+Practical time series analysis,4.47
+Preparing cloud associate cloud engineer exam,4.54
+Preparing cloud professional cloud architect exam,4.44
+Principles of macroeconomics,4.59
+Principles of microeconomics,4.59
+Privacy law data protection,4.76
+Private equity,4.76
+Probabilistic models in nlp,4.56
+Probability intro,4.61
+Probability statistics,4.51
+Process mining,4.72
+Producing music,4.82
+Professional emails english,4.76
+Progfun1,4.69
+Programming fundamentals,4.73
+Programming languages,4.91
+Project execution,3.91
+Project management,4.42
+Project planning,4.67
+Project planning 1,3.96
+Project risk management,4.73
+Psychological first aid,4.84
+Public policy,4.55
+Public speaking,4.83
+Python,4.58
+Python basics,4.8
+Python crash course,4.73
+Python data,4.85
+Python data analysis,4.22
+Python data visualization,4.37
+Python databases,4.7
+Python for applied data science ai,4.21
+Python for data visualization,4.12
+Python functions files dictionaries,4.87
+Python machine learning,4.51
+Python network data,4.73
+Python operating system,4.55
+Python osnovy programmirovaniya,4.34
+Python plotting,4.32
+Python programming introduction,4.61
+Python statistics financial analysis,4.28
+Quality healthcare,4.82
+Quantitative methods,4.73
+Quantum computing algorithms,3.16
+R programming,4.37
+Race cultural diversity american life,4.59
+Recruiting hiring onboarding employees,3.86
+Refugees 21st century,4.82
+Remote team management,5.0
+Removing barriers to change,5.0
+Renewable energy entrepreneurship,4.69
+Reporting extra financier strategie rse,4.66
+Research methods,4.47
+Reussir le changement,4.4
+Revisao sistematica,4.92
+Role of advertising,4.81
+Roman architecture,4.86
+Sample based learning methods,4.5
+Sas programming basics,4.92
+Schedule projects,4.71
+Schizophrenia,4.69
+Science exercise,4.81
+Sciwrite,4.92
+Sdgbusiness,4.93
+Search engine optimization,4.58
+Self determination theory,4.93
+Seo fundamentals,4.7
+Sequence models in nlp,3.97
+Site reliability engineering slos,4.16
+Six sigma organization advanced,4.59
+Six sigma principles,4.51
+Sleep,4.81
+Smart cities,4.6
+Social economic networks,1.0
+Social impact,4.9
+Social innovation,4.5
+Social media marketing introduction,4.81
+Social psychology,4.87
+Social work practice advocating social justice and change,4.8
+Software processes and agile practices,4.68
+Solar energy basics,4.76
+Songwriting lyrics,4.73
+Spanish in healthcare settings,4.0
+Spanish vocabulary meeting people,4.51
+Speak english professionally,4.73
+Spectroscopy,4.44
+Sports marketing,4.82
+Sports society,4.86
+Sql data science,4.36
+Sql for data science,4.45
+Statistical inferences,4.88
+Stem cells,4.75
+Stochasticprocesses,4.17
+Strategic business management microeconomics,4.81
+Strategic management,4.78
+Success,4.87
+Summary statistics,4.8
+Supply chain logistics,4.65
+Supply chain principles,4.56
+Sustainability,4.76
+Sustainable fashion,4.92
+Sustainable finance,4.83
+Sustainable tourism,4.44
+System administration it infrastructure services,4.65
+Systematic review,4.77
+Systems engineering,4.66
+Systems thinking,4.48
+Teach online,4.77
+Teachlanguageonline,4.56
+Teamwork skills effective communication,4.78
+Technical support fundamentals,4.75
+Technology of music production,4.86
+Tensorflow sequences time series and prediction,4.44
+Terrorism,4.77
+The business of product management one,4.6
+The cycle,4.87
+The science of well being,4.92
+Theropods birds,4.9
+Transformation global food system,4.83
+Transmedia storytelling,4.72
+Tricky american english pronunciation,4.78
+Troubles spectre autisme diagnostic,4.87
+Troubleshooting debugging techniques,4.19
+Trunk anatomy,4.77
+Truthinourbones osteoarchaeology archaeology,4.56
+Typography,4.77
+Understanding arguments,4.62
+Understanding financial markets,4.69
+Understanding visualization data,4.35
+Uol machine learning for all,4.84
+Upravleniya proektami agile scrum,4.79
+User experience design,4.42
+Uva darden agile team management,4.67
+Uva darden agile testing,4.25
+Uva darden bcg pricing strategy cost economics,4.8
+Uva darden continous delivery devops,4.62
+Uva darden design thinking innovation,4.63
+Uva darden design thinking social sector,4.31
+Uva darden digital product management,4.74
+Uva darden financial accounting,4.8
+Uva darden foundations business strategy,4.77
+Uva darden getting started agile,4.76
+Uva darden managerial accounting,4.87
+Uva darden market analytics,4.53
+Uva darden project management,4.74
+Ux design fundamentals,4.83
+Ux ui design de interface,4.37
+Verb passives,4.71
+Version control with git,4.75
+Visual elements user interface design,4.71
+Vital signs,4.81
+Vlsi cad logic,4.73
+Web development,4.67
+Weight management beyond balancing calories,4.67
+Wharton accounting,4.77
+Wharton communication skills,4.69
+Wharton contagious viral marketing,4.75
+Wharton cryptocurrency blockchain introduction digital currency,4.46
+Wharton customer analytics,4.41
+Wharton entrepreneurship opportunity,4.78
+Wharton finance,4.48
+Wharton financial accounting,4.77
+Wharton fintech overview payments regulations,4.6
+Wharton introduction spreadsheets models,3.63
+Wharton launching startup,4.78
+Wharton marketing,4.76
+Wharton operations,4.39
+Wharton operations analytics,4.66
+Wharton people analytics,4.51
+Wharton quantitative modeling,4.55
+Wharton success,4.91
+What is a proof,4.28
+What is compliance,4.79
+What is datascience,4.6
+What is social,4.58
+Wind energy,4.71
+Wine,4.61
+Womens health human rights,4.83
+Write a feature length screenplay for film or television,4.62
+Write your first novel,3.85
+Writing editing words,4.74
+Writing for business,4.83
